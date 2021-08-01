@@ -1,0 +1,10 @@
+D:\CSharp\WCF_Learning\WindowsFormWCFClient\WindowsFormWCFClient\bin\Debug\WindowsFormWCFClient.exe.config
+D:\CSharp\WCF_Learning\WindowsFormWCFClient\WindowsFormWCFClient\bin\Debug\WindowsFormWCFClient.exe
+D:\CSharp\WCF_Learning\WindowsFormWCFClient\WindowsFormWCFClient\bin\Debug\WindowsFormWCFClient.pdb
+D:\CSharp\WCF_Learning\WindowsFormWCFClient\WindowsFormWCFClient\obj\Debug\WindowsFormWCFClient.csproj.AssemblyReference.cache
+D:\CSharp\WCF_Learning\WindowsFormWCFClient\WindowsFormWCFClient\obj\Debug\WindowsFormWCFClient.Form1.resources
+D:\CSharp\WCF_Learning\WindowsFormWCFClient\WindowsFormWCFClient\obj\Debug\WindowsFormWCFClient.Properties.Resources.resources
+D:\CSharp\WCF_Learning\WindowsFormWCFClient\WindowsFormWCFClient\obj\Debug\WindowsFormWCFClient.csproj.GenerateResource.cache
+D:\CSharp\WCF_Learning\WindowsFormWCFClient\WindowsFormWCFClient\obj\Debug\WindowsFormWCFClient.csproj.CoreCompileInputs.cache
+D:\CSharp\WCF_Learning\WindowsFormWCFClient\WindowsFormWCFClient\obj\Debug\WindowsFormWCFClient.exe
+D:\CSharp\WCF_Learning\WindowsFormWCFClient\WindowsFormWCFClient\obj\Debug\WindowsFormWCFClient.pdb
