@@ -1,0 +1,11 @@
+C:\Users\Entertainment\Downloads\Compressed\WCF\WCFHost\bin\Debug\WCFHost.exe.config
+C:\Users\Entertainment\Downloads\Compressed\WCF\WCFHost\bin\Debug\WCFHost.exe
+C:\Users\Entertainment\Downloads\Compressed\WCF\WCFHost\bin\Debug\WCFHost.pdb
+C:\Users\Entertainment\Downloads\Compressed\WCF\WCFHost\bin\Debug\WCF.Service.dll
+C:\Users\Entertainment\Downloads\Compressed\WCF\WCFHost\bin\Debug\WCF.Service.pdb
+C:\Users\Entertainment\Downloads\Compressed\WCF\WCFHost\bin\Debug\WCF.Service.dll.config
+C:\Users\Entertainment\Downloads\Compressed\WCF\WCFHost\obj\Debug\WCFHost.csproj.AssemblyReference.cache
+C:\Users\Entertainment\Downloads\Compressed\WCF\WCFHost\obj\Debug\WCFHost.csproj.CoreCompileInputs.cache
+C:\Users\Entertainment\Downloads\Compressed\WCF\WCFHost\obj\Debug\WCFHost.csproj.CopyComplete
+C:\Users\Entertainment\Downloads\Compressed\WCF\WCFHost\obj\Debug\WCFHost.exe
+C:\Users\Entertainment\Downloads\Compressed\WCF\WCFHost\obj\Debug\WCFHost.pdb
