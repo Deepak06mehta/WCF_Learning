@@ -9,3 +9,14 @@ C:\Users\Entertainment\Downloads\Compressed\WCF\WCFHost\obj\Debug\WCFHost.csproj
 C:\Users\Entertainment\Downloads\Compressed\WCF\WCFHost\obj\Debug\WCFHost.csproj.CopyComplete
 C:\Users\Entertainment\Downloads\Compressed\WCF\WCFHost\obj\Debug\WCFHost.exe
 C:\Users\Entertainment\Downloads\Compressed\WCF\WCFHost\obj\Debug\WCFHost.pdb
+D:\CSharp\WCF_Learning\WCF\WCFHost\bin\Debug\WCFHost.exe.config
+D:\CSharp\WCF_Learning\WCF\WCFHost\bin\Debug\WCFHost.exe
+D:\CSharp\WCF_Learning\WCF\WCFHost\bin\Debug\WCFHost.pdb
+D:\CSharp\WCF_Learning\WCF\WCFHost\bin\Debug\WCF.Service.dll
+D:\CSharp\WCF_Learning\WCF\WCFHost\bin\Debug\WCF.Service.pdb
+D:\CSharp\WCF_Learning\WCF\WCFHost\bin\Debug\WCF.Service.dll.config
+D:\CSharp\WCF_Learning\WCF\WCFHost\obj\Debug\WCFHost.csproj.AssemblyReference.cache
+D:\CSharp\WCF_Learning\WCF\WCFHost\obj\Debug\WCFHost.csproj.CoreCompileInputs.cache
+D:\CSharp\WCF_Learning\WCF\WCFHost\obj\Debug\WCFHost.csproj.CopyComplete
+D:\CSharp\WCF_Learning\WCF\WCFHost\obj\Debug\WCFHost.exe
+D:\CSharp\WCF_Learning\WCF\WCFHost\obj\Debug\WCFHost.pdb
