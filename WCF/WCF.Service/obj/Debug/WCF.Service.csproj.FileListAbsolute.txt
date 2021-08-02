@@ -8,7 +8,6 @@ C:\Users\Entertainment\Downloads\Compressed\WCF\WCF.Service\obj\Debug\WCF.Servic
 D:\CSharp\WCF_Learning\WCF\WCF.Service\bin\Debug\WCF.Service.dll.config
 D:\CSharp\WCF_Learning\WCF\WCF.Service\bin\Debug\WCF.Service.dll
 D:\CSharp\WCF_Learning\WCF\WCF.Service\bin\Debug\WCF.Service.pdb
-D:\CSharp\WCF_Learning\WCF\WCF.Service\obj\Debug\WCF.Service.csproj.AssemblyReference.cache
 D:\CSharp\WCF_Learning\WCF\WCF.Service\obj\Debug\WCF.Service.csproj.CoreCompileInputs.cache
 D:\CSharp\WCF_Learning\WCF\WCF.Service\obj\Debug\WCF.Service.dll
 D:\CSharp\WCF_Learning\WCF\WCF.Service\obj\Debug\WCF.Service.pdb

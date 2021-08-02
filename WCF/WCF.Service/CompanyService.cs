@@ -8,7 +8,7 @@ using System.Text;
 namespace WCF.Service
 {
     // NOTE: You can use the "Rename" command on the "Refactor" menu to change the class name "CompanyService" in both code and config file together.
-    public class CompanyService : ICompanyService,ICompanyConfidentialService
+    public class CompanyService : ICompanyService_someting, ICompanyConfidentialService
     {
         //since client and WCF service are on same system , both methods are running.
         public string GetPubicInformation()
