@@ -14,7 +14,13 @@ namespace WCFHost
             using(ServiceHost host =new ServiceHost(typeof(WCF.Service.Service1)))
             {
                 host.Open();
-                Console.WriteLine("open Host @" + DateTime.Now.ToString());
+                Console.WriteLine("open Host ServiceHost @" + DateTime.Now.ToString());
+                Console.ReadLine();
+            }
+            using(ServiceHost host =new ServiceHost(typeof(WCF.Service.CompanyService)))
+            {
+                host.Open();
+                Console.WriteLine("open Host CompanyServiceHost @" + DateTime.Now.ToString());
                 Console.ReadLine();
             }
         }
